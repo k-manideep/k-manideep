@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k-manideep
-- 👀 I’m interested in Youtube Shorts
-- 🌱 I’m currently learning GreatLearning
-- 💞️ I’m looking to collaborate on MadBlocks
+- 👀 I’m interested in **Youtube Shorts**
+- 🌱 I’m currently learning **GreatLearning**
+- 💞️ I’m looking to collaborate on **MadBlocks**
 - 📫 How to reach me 
 - [GitHub]()
 
