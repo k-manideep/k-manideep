@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @k-manideep
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Youtube Shorts
+- 🌱 I’m currently learning GreatLearning
+- 💞️ I’m looking to collaborate on MadBlocks
+- 📫 How to reach me 
+- [Gmail](manideep2810@gmail.com)
 
 <!---
 k-manideep/k-manideep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
